@@ -11,3 +11,6 @@ Calendar of your life script for [nwg-wrapper](https://github.com/nwg-piotr/nwg-
 
 ## Screenshot
 ![screenshot](screenshot.png)
+
+letter-spacing set and using `☒` instead of `☑`
+`[screenshot 2](screenshot2.png)
